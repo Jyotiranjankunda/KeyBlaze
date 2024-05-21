@@ -4,4 +4,4 @@ The Typing Game helps people to increase their typing speed. Random words appear
 
 The game is made using HTML, CSS and Javascript. 
 
-Host link : https://jyotiranjankunda.github.io/Speed-Typing-game/
+Host link : [https://jyotiranjankunda.github.io/KeyBlaze/](https://jyotiranjankunda.github.io/KeyBlaze/)
